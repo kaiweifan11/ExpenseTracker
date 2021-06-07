@@ -1,0 +1,24 @@
+.realtime_chart .c3-chart-arc text {
+    fill: white;
+}
+
+.realtime_chart .c3-title {
+	fill: white;
+}
+
+.realtime_chart .c3-legend-item {
+	fill: white;
+}
+
+.realtime_chart .c3 .c3-axis-x g, 
+.realtime_chart .c3 .c3-axis-y g, 
+.realtime_chart .c3 .c3-legend-item-data text {
+    fill: whitesmoke;
+}
+
+.realtime_chart .c3 .c3-axis-x path,
+.realtime_chart .c3 .c3-axis-x line,
+.realtime_chart .c3 .c3-axis-y path,
+.realtime_chart .c3 .c3-axis-y line {
+    stroke: white;
+}
